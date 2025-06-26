@@ -10,4 +10,4 @@ Pour ce hackathon, nous utilisons des LLM installés localement sur les machines
 * STEP 3
 
 ### Tutoriel
-Le tutoriel lui-même est fourni sous la forme d'un fichier de type jupyter notebook. 
+Le tutoriel lui-même est fourni sous la forme d'un fichier de type jupyter notebook, accessible sur ce dépôt
